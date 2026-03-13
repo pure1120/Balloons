@@ -6,7 +6,7 @@ Instead of using a mouse or keyboard, the player’s body becomes the controller
 *The idea for this project comes partly from thinking about stress in everyday life. Many people today experience constant pressure from work, study, and the fast pace of digital environments. Small moments of playful interaction can offer a brief sense of relief.
 Balloons is designed as a simple stress-relief mini game. The interaction is intentionally straightforward: players move their hands, pop balloons, and watch the immediate visual feedback. The floating balloons and particle effects create a light and playful atmosphere, allowing the experience to feel relaxing rather than competitive.
 At the same time, the project explores a different type of game control. Instead of traditional input devices, the body itself becomes the interface. Machine vision reads hand gestures and converts them into actions inside the game world, creating a direct connection between movement and visual response.*
-##Technology Used
+## Technology Used
 *How did you make it, what libraries etc used*
 ## How to Run / Install
 *Players interact with the system using three gestures:
