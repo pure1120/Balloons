@@ -21,10 +21,5 @@ The goal is simply to pop as many balloons as possible within a limited time.*
 *p5.js and MediaPipe Gesture Recognizer.*
 ## Screenshots / Media
 *
-.*
-## Credits / Acknowledgements
-*Who made it, references.*
-##License
-*What license is it made under, if any?*
 ## Contact / Links
 *GitHub repo link, website, demo URL.*
