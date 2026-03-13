@@ -22,4 +22,4 @@ The goal is simply to pop as many balloons as possible within a limited time.*
 ## Screenshots / Media
 *
 ## Contact / Links
-*GitHub repo link, website, demo URL.*
+*[GitHub repo link, website, demo URL](https://github.com/pure1120/Balloons.git).*
